@@ -1,0 +1,16 @@
+h1{
+    background-color: gold;
+} h2{
+    background-color: red;
+} h3{
+    background-color: chartreuse;
+} p{
+    background-color: palevioletred;
+    border: solid crimson 10px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+img{
+    height: 400px;
+    width: 800px;
+} 
